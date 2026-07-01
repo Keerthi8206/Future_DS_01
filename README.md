@@ -46,3 +46,7 @@ images/
 report/
 Business_Sales_Analytics.pbix
 README.md
+
+Created by: Keerthi K
+CIN ID: FIT/JUN26/DS21085
+Future Interns | Data Science & Analytics Internship 2026
